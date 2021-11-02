@@ -15,7 +15,7 @@
 
 ### Frequently used code editors
 
-<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="visual logo" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visual code logo" width="50" height="50" />  <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="INTELIJ logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/atom-4.svg" alt="ATOM logo" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="visual logo" width="50" height="50" />&nbsp;  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="visual code logo" width="50" height="50" />  &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="INTELIJ logo" width="50" height="50" /> &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/atom-4.svg" alt="ATOM logo" width="50" height="50" />
 
 ---
 
