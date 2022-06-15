@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Tommy Karjamenawi! ![GitHub followers](https://img.shields.io/github/followers/tommykarjamenawi?style=social)
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I am Tommy Karjamenawi! ![GitHub followers](https://img.shields.io/github/followers/tommykarjamenawi?style=social)
 
 ---
 
