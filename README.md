@@ -1,9 +1,8 @@
-### Hi there, I am Tommy Karjamenawi! ![GitHub followers](https://img.shields.io/github/followers/tommykarjamenawi?style=social)
+### Hi there, I am Tommy! ![GitHub followers](https://img.shields.io/github/followers/tommykarjamenawi?style=social)
 
 ---
 
-- Student at Inholland University of Applied sciences.
-- I am aspiring to become a great back-end developer.
+- I am a back-end developer specializing in .NET Development.
 
 ---
 
@@ -27,7 +26,7 @@
 ---
 
 <!--
-**tommykarjamenawi/tommykarjamenawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
