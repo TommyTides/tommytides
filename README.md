@@ -20,8 +20,8 @@
 
 ### &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommykarjamenawi&hide=&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
-<!-- &nbsp; [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommykarjamenawi&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tommytides&hide=&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+<!-- &nbsp; [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=tommytides&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
