@@ -1,4 +1,4 @@
-### Hi there, I am Tommy! ![GitHub followers](https://img.shields.io/github/followers/tommykarjamenawi?style=social)
+### Hi there, I am Tommy! ![GitHub followers](https://img.shields.io/github/followers/TommyTides?style=social)
 
 ---
 
