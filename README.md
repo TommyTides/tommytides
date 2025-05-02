@@ -6,7 +6,7 @@
 
 ---
 
-### 🧰 My current skills
+### 🧰 My current skills.
 
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c# logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongoDB logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="html logo" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="css logo" width="50" height="50" /> <img src="https://www.svgrepo.com/show/148452/sql.svg" alt="sql logo" width="50" height="50" />
 
